@@ -1,0 +1,44 @@
+html{
+    background-color: rgb(31, 26, 26);
+    margin-left: 150px;
+}
+
+h1{
+    color: grey;
+    text-align: center;
+    margin-right: 100px;
+}
+
+h2{
+    color: rgb(216, 203, 23);
+    font-size: 40px;
+}
+
+p{
+    color: rgb(216, 203, 23);
+    font-size: 20px;
+    margin-right: 400px;
+    margin-left: 30px;
+}
+
+#Hinata{
+    display: inline-block;
+}
+
+#shoyo{
+    float: left;
+}
+
+#Arms{
+    float: left;
+}
+
+@media (max-width: 600px) {
+
+    p{
+        font-size: 20px;
+        margin: 0;
+    }
+
+
+}

@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    background-color: green;
+    color: aqua;
+}
+#lol{
+    color: brown;
+    background-color: burlywood;
+}

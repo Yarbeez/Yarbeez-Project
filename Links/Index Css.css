@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+h2{
+    color: gold;
+    text-align: center;
+}
+h1, #hh1{
+    color: aqua;
+    text-align: center;
+}
+
+.Image{
+    border: 7px solid grey;
+    margin-left: 30px;
+}
+
+footer{
+    text-align: center;
+    
+}
+
+#Space{
+    padding-left: 30px;
+}
+
+a{
+    color: grey;
+}
